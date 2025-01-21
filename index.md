@@ -9,8 +9,6 @@ excerpt: "Learn to sing classical music"
 
 KV Music Academy strives to 
 
-
-
 ###### Carnatic Beginner
 
 - Sarali Varisai
