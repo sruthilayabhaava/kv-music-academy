@@ -3,8 +3,7 @@ title:
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
-feature_image: https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/Thyagaraja.jpeg
-image: "/kv-music-academy/main/assets/Thyagaraja.jpeg"
+image: "/assets/default-social-image.png"
 excerpt: "Learn to sing classical music"
 ---
 
