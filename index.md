@@ -4,10 +4,11 @@ feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
 feature_image: 
+image: "/assets/Thyagaraja.jpeg"
 excerpt: "Learn to sing classical music"
 ---
 
-KV Music Academy strives to 
+KV Music Academy strives to educate aspiring musicians in a nurturing environment. We are accepting students for the following:
 
 ###### Carnatic Beginner
 
