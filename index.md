@@ -3,7 +3,8 @@ title:
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
-image: "https://sruthilayabhaava.github.io/kv-music-academy/assets/Thyagaraja.jpeg"
+feature_image:
+image: 
 
 ---
 
