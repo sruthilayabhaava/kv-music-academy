@@ -3,21 +3,21 @@ title:
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
-feature_image: "../assets/Carnatic-trimuri.jpg"
+feature_image: 
 excerpt: "Learn to sing classical music"
 ---
 
-### KV Music Academy strives to 
+KV Music Academy strives to 
 
 
 
-#### Carnatic Beginner
+###### Carnatic Beginner
 
 - Sarali Varisai
 - Jantai Varisai
 - Thyagaraja Krithis
 
-#### Carnatic Intermediate
+###### Carnatic Intermediate
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
