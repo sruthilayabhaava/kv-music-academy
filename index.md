@@ -3,8 +3,8 @@ title:
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
-feature_image: "/assets/Carnatic-trimurti.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+feature_image: "https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/Carnatic-trimuri.jpg"
+excerpt: "Learn to sing classical music"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
