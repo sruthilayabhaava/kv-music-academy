@@ -1,5 +1,5 @@
 ---
-title: KV Music Academy
+title: 
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic and devotional music
