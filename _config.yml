@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "KV Music Academy" # Site name or title, also used in jekyll-seo-tag
-# logo: "/assets/Thyagaraja.jpeg" # Site logo, also used in jekyll-seo-tag
+logo: "https://sruthilayabhaava.github.io/kv-music-academy/assets/Tambura.jpg" # Site logo, also used in jekyll-seo-tag
 description: "KV Music Academy is a Carnatic music school" # Site description and default description, also used in jekyll-seo-tag
 # url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -121,8 +121,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Guru's renditions
-  url: https://www.youtube.com/watch?v=4G8PK2wepaA 
+- title: Guru's contact sruthilayabhaava@gmail.com
+#  url: https://www.youtube.com/watch?v=4G8PK2wepaA 
 #  url: /
 # - title: Home
 #  url: /
