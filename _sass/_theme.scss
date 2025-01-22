@@ -22,7 +22,7 @@ body {
     text-align: right;
   }
   .logo {
-  #  @include flex(0 0 auto);
+   @include flex(0 0 auto);
   }
   .container {
     @include flexbox;
