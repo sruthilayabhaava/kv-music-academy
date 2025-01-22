@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 KV Music Academy strives to educate aspiring musicians in a nurturing environment. We are accepting students for the following:
-<img src="https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/Thyagaraja.jpeg" alt="Thyagaraja"/>
+<img src="https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/default-social-image.png" alt="Social"/>
 ###### Carnatic Beginner
 
 - Sarali Varisai
