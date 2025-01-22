@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "KV Music Academy" # Site name or title, also used in jekyll-seo-tag
-logo: "https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/Thyagaraja.jpeg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/Thyagaraja.jpeg" # Site logo, also used in jekyll-seo-tag
 description: "KV Music Academy is a Carnatic music school" # Site description and default description, also used in jekyll-seo-tag
 # url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
