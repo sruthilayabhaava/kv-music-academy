@@ -7,6 +7,10 @@ feature_text: |
 feature_image: "https://sruthilayabhaava.github.io/kv-music-academy/assets/Carnatic-trimuri.jpg"
 ---
 
+body {
+  background-color: red;
+}
+
 KV Music Academy strives to educate aspiring musicians in a nurturing environment. We offer the following classes:
 
 ###### Carnatic Beginner
