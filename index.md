@@ -3,7 +3,8 @@ title:
 feature_text: |
   ## KV Music Academy
   Lessons in Carnatic, semi-classical and devotional music
-  feature_image: "https://picsum.photos/1300/400?image=989"
+  
+feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 KV Music Academy strives to educate aspiring musicians in a nurturing environment. We offer the following classes:
