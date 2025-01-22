@@ -8,9 +8,9 @@ feature_image: "https://sruthilayabhaava.github.io/kv-music-academy/assets/Carna
 ---
 
 
-KV Music Academy strives to educate aspiring musicians in a nurturing environment. We offer the following classes:
+KV Music Academy strives to educate aspiring musicians in a nurturing environment. The following classes are offered:
 
-###### Carnatic Beginner
+###### Carnatic 
 
 
 - Sarali Varisai
@@ -18,18 +18,18 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 - Dattu Varisai
 - Upper Sthayi Varisai
 - Alankarams
-- Music Theory
-
-
-
-###### Carnatic Intermediate
-
+- Geethams
+- Swarajathis
 - Varnams
-- Krithis
+- Krithis - beginner and advanced
+- Bhajans
+- Pancharatna Krithis
+- Theory lessons
 
-######  The Guru
 
-KV Music Academy is founded in California, USA by Chitra. Chitra has training in Carnatic music from an early age. She trained under Smt. Jaya Shankar in Calcutta, renowned musicologist Late Vidwan Panchapakesa Iyer and then Smt. Balamani in Bombay. She has won several competitions in Calcutta and Bombay, and performed full length concerts in Bombay. Chitra moved to USA in 1989 to pursue MS Computer Science, pursued in career in high tech for nearly four decades and recently retired from Apple. She has parallely performed at various venue in USA. Chitra completed her Diploma and Post Diploma from Bharatiya Music and Arts Society, Bombay earning the title "Sangeeta Vidya Praveena". She is currently pursuing M.A. in Music and teaching carnatic music and shlokas. 
+######  Director/Owner
+
+KV Music Academy is founded in California, USA by Chitra. Smt Chitra (Krishnan) Ramabadran has received training under Late Smt. Jaya Shankar in Calcutta, renowned musicologist Late Vidwan Panchapakesa Iyer and Late Smt. T. R.Balamani in Bombay. Chitra completed her Diploma and Post Diploma from Bharatiya Music and Arts Society, Bombay earning the title "Sangeeta Vidya Praveena". Chitra has won several competitions in Calcutta and Bombay, performed mini and full length concerts in Bombay and USA. Chitra holds a Masters in Computer Science and pursued several management roles in high tech most recently with Apple. Chitra is currently pursuing M.A. in Music. 
 
 ###### Links to Guru's renditions
 - [Ganesh Bhajan](https://youtu.be/4G8PK2wepaA)
