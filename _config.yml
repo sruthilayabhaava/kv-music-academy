@@ -121,6 +121,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
+- title: Guru's renditions
+  url: https://www.youtube.com/watch?v=4G8PK2wepaA 
+#  url: /
 # - title: Home
 #  url: /
 # - title: Elements
