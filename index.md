@@ -4,7 +4,7 @@ feature_text: |
   ## KV Music Academy
   Lessons in Carnatic, semi-classical and devotional music
   
-feature_image: "https://github.com/sruthilayabhaava/kv-music-academy/blob/main/assets/Carnatic-trimuri.jpg"
+feature_image: "https://sruthilayabhaava.github.io/kv-music-academy/assets/Carnatic-trimuri.jpg"
 ---
 
 KV Music Academy strives to educate aspiring musicians in a nurturing environment. We offer the following classes:
