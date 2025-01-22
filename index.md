@@ -21,8 +21,8 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 - Thyagaraja Krithis
 - 
 
-###### Links to 
-- [https://youtu.be/4G8PK2wepaA]
+###### Links to Guru's renditions
+- [Ganesh Bhajan](https://youtu.be/4G8PK2wepaA)
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
