@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## KV Music Academy
-  Lessons in Carnatic and devotional music
+  Lessons in Carnatic, semi-classical and devotional music
 feature_image:
 image: 
 
@@ -14,12 +14,15 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 
 - Sarali Varisai
 - Jantai Varisai
-- Thyagaraja Krithis
+
 
 ###### Carnatic Intermediate
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- Thyagaraja Krithis
+- 
 
+###### Links to 
+- [https://youtu.be/4G8PK2wepaA]
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
