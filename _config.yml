@@ -39,15 +39,15 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+#  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+# author: DavidDarnes # jekyll-seo-tag > default author
+# social: # jekyll-seo-tag > social overrides
+#  name: David Darnes # jekyll-seo-tag > real name
+#  links:  # jekyll-seo-tag > social aliases (sameAs)
+#    - https://twitter.com/DavidDarnes
+#    - https://www.facebook.com/daviddarnes
+#   - https://www.linkedin.com/in/daviddarnes
+#    - https://github.com/daviddarnes
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -121,7 +121,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Guru's contact sruthilayabhaava@gmail.com
+- title: Smt. Chitra's contact sruthilayabhaava@gmail.com
 # url: "mailto:sruthilayabhaava@gmail.com"
 #  url: /
 # - title: Home
