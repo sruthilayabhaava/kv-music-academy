@@ -12,7 +12,8 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 
 ###### Carnatic Beginner
 
--- Sarali Varisai
+
+- Sarali Varisai
 - Jantai Varisai
 - Dattu Varisai
 - Upper Sthayi Varisai
@@ -25,6 +26,8 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 
 - Varnams
 - Krithis
+
+  
 
 ###### Links to Guru's renditions
 - [Ganesh Bhajan](https://youtu.be/4G8PK2wepaA)
