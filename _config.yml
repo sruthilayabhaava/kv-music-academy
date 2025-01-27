@@ -121,7 +121,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Smt. Chitra's contact sruthilayabhaava@gmail.com
+- title: Contact sruthilayabhaava@gmail.com
 # url: "mailto:sruthilayabhaava@gmail.com"
 #  url: /
 # - title: Home
