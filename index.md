@@ -29,7 +29,7 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 
 ######  Director/Owner
 
-KV Music Academy was founded in California, USA by Vid. Chitra (Krishnan) Ramabadran in memory of her parents Shri R. Krishnan and Smt. Vijaya who were connoisseurs of Carnatic Music. Chitra has received training under Late Smt. Jaya Shankar in Calcutta, renowned musicologist Late Vidwan Panchapakesa Iyer and Late Smt. T. R.Balamani in Bombay. Chitra completed her Diploma and Post Diploma from Bharatiya Music and Arts Society, Bombay earning the title "Sangeeta Vidya Praveena". Chitra has won several competitions in Calcutta and Bombay, and performed in several venues in Bombay and USA. Chitra holds a Masters in Computer Science and recently retired from a career in high tech. Chitra is currently pursuing M.A. in Carnatic Music. 
+KV Music Academy was founded in California, USA by Vid. Chitra (Krishnan) Ramabadran in memory of her parents Shri R. Krishnan and Smt. Vijaya who were connoisseurs of Carnatic Music. Chitra has received training under Late Smt. Jaya Shankar in Calcutta, renowned musicologist Late Vidwan Panchapakesa Iyer and Late Smt. T. R.Balamani in Bombay. She completed her Diploma and Post Diploma from Bharatiya Music and Arts Society, Bombay earning the title "Sangeeta Vidya Praveena". She has won several competitions in Calcutta and Bombay, and also performed in several venues in Bombay and USA. Chitra holds a Masters in Computer Science and recently retired from a career in high tech. Chitra is currently pursuing M.A. in Carnatic Music. 
 
 ###### Links to Vid. Chitra's renditions
 - [Ganesh Bhajan](https://youtu.be/4G8PK2wepaA)
