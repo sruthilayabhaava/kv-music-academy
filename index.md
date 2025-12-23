@@ -15,7 +15,7 @@ KV Music Academy strives to educate aspiring musicians in a nurturing environmen
 
 - Beginner Series (Sarali Varisai through Geethams)
 - Intermediate Series (Swarajathis, Varnams, Bhajans and Beginner Krithis)
-- Advanced (Ata Tala Varnamas, Krithis of various composers and Pancharatna Krithis)
+- Advanced (Ata Tala Varnams, Krithis of various composers and Pancharatna Krithis)
 - Theory lessons
 
 
